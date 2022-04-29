@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Refrye
-- 👀 I’m interested in everythink i will learn
+- 👀 I’m interested in 
 - 🌱 I’m currently learning in a java, html, css, python, c++, php, javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
