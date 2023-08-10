@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Refrye
-- 👀 I’m interested in 
+- 👋 Hi, I’m @Refrye or Faisal
+- 👀 I’m interested in am ↺ tech but tech is huge
 - 🌱 I’m currently learning in a java, html, css, python, c++, php, javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
