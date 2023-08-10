@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Refrye or Faisal
 - 👀 I’m interested in am ↺ tech but tech is huge
-- 🌱 I’m currently learning in a java, html, css, python, c++, php, javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning in a java, html, css, python, c++, PHP, javascript
+- 💞️ I’m looking to collaborate with other
+- 📫 How to reach me I am always online but I go to somewhere meme Facebook for geeks
 
 <!---
 Refrye/Refrye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
