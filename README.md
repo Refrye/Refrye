@@ -19,7 +19,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Refrye&layout=compact" height=180 />
 </p>
 
-### let's connect !
+### let's connect!
 <p>
   oon gooing
 </p>
