@@ -1,11 +1,18 @@
-- # Hi there 👋 , I'm Refrye!
-### tools:
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+
+<div style="font-family: 'Poppins', sans-serif;">
+<li># Hi there 👋 , I'm Refrye!</li>
+<p>Welcome to my <b>Github Profile </b>! i am from <img src="https://cdn-icons-png.flaticon.com/512/939/939651.png" width="13"/> <b>East Java, Indonesia</b>. </p>
+<h3><b>🔨 Tools</b></h3>
 <p>
 <img src="https://img.shields.io/badge/OS-windows-red?logo=windows&logoColor=blue" />
 <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-purple?logo=visualstudiocode&logoColor=blue"/>
 </p>
+  
+<h3><b>🗿 Stats</b></h3>
 
-### Stats :
 <details>
   <summary><strong>what i am doing or learning on these days</strong></summary>
   <li>👀 I’m interested in am ↺ tech but tech is huge</li> 
@@ -23,3 +30,4 @@
 <p>
   oon gooing
 </p>
+</div>
