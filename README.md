@@ -25,8 +25,10 @@ Welcome to my GitHub profile! I'm from <img src="https://cdn-icons-png.flaticon.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Refrye&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000&bg_color=30,e96443,904e95&text_color=fff&icon_color=fff" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Refrye&layout=compact&hide_border=true&title_color=000&bg_color=30,e96443,904e95&text_color=fff" />
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=Refrye&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Refrye&layout=compact" height=180 />
+</p>
 </div>
 
 ## 🌱 Currently Learning
